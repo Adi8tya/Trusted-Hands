@@ -79,9 +79,9 @@ All done 🤟
 
 ## 🔧 Tech Stack
 - **Frontend**: HTML/CSS, JavaScript (**React**)
-- **Backend**: **Node.js** / **Django** / **Flask** *(select one)*
-- **Database**: **PostgreSQL** / **MongoDB**
-- **Deployment**: **AWS** / **Heroku** / **Vercel**
+- **Backend**: **Node.js**, **Django**
+- **Database**: **PostgreSQL** 
+- **Deployment**: **AWS** 
 
 ---
 
